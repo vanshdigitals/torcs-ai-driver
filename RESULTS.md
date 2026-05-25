@@ -37,7 +37,7 @@ Increasing speed alone does not improve lap time. The car needs balanced braking
 
 
 
-\## What I would try next
+## What I would try next
 
 Adjust STEER\_GAIN to improve cornering while maintaining higher speed.
 
